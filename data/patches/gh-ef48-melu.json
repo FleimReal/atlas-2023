@@ -1,0 +1,41 @@
+{
+	"id": 5598,
+	"name": "MeLu",
+	"description": "♥Melu♥ es una youtuber argentina dedicada a subir vídeos de gameplays y hacer animaciones",
+	"links": {
+		"website": [
+			"https://www.youtube.com/@MeLuYT",
+			"https://www.twitch.tv/melureal"
+		]
+	},
+	"path": {
+		"250-256": [
+			[
+				-234,
+				-845
+			],
+			[
+				-225,
+				-845
+			],
+			[
+				-225,
+				-836
+			],
+			[
+				-234,
+				-836
+			],
+			[
+				-234,
+				-845
+			]
+		]
+	},
+	"center": {
+		"250-256": [
+			-229,
+			-840
+		]
+	}
+}
